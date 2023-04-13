@@ -127,7 +127,7 @@ console.log("Problem 4 , 5")
 // Create a new variable (not part of the object) that has no value.
 // Write some kind of if / else statement to check some information of the object. Based on true / false set the value of the variable you made in number 6 to true or false.
 // Delete one of the object properties.
-
+// I'm adding some Audio PLayer code that might break the application
 const person = {
     name: 'John',
     age: 27,
